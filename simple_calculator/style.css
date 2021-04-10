@@ -47,5 +47,37 @@ body {
   border-radius: 50%;
   border-width: 0;
   font-weight: bold;
-  font-size: 15px;
+  font-size: 20px;
+}
+
+.operator {
+  background: #c5c2c2;
+}
+
+.number, .empty {
+  background: #eaedef;
+}
+
+.number, .operator {
+  cursor: pointer;
+}
+
+button:nth-child(4) {
+  background: #20b2aa;
+}
+
+button:nth-child(8) {
+  background: #ffa500;
+}
+
+button:nth-child(12) {
+  background: #f08080;
+}
+
+button:nth-child(16) {
+  background: #7d93e0;
+}
+
+button:nth-child(20) {
+  background: #9477af;
 }
