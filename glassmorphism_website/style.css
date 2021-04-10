@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 
 * {
   margin: 0;
@@ -29,11 +29,13 @@ body::after {
 body::before {
   clip-path: circle(30% at left 20%);
   background: linear-gradient(135deg, #f6416c 10%, #ff9a92 100%);
+  z-index: -2;
 }
 
 body::after {
   clip-path: circle(30% at right 80%);
   background: linear-gradient(135deg, #f6416c 10%, #ff9a92 100%);
+  z-index: -2;
 }
 
 header {
@@ -56,8 +58,76 @@ header .navbar {
 }
 
 header .navbar .logo a{
-  font-size: 22px;
-  font-weight: 500;
+  font-size: 50px;
+  font-weight: 700;
   color: #000;
   text-decoration: none;
+}
+
+header .navbar .menu {
+  display: flex;
+}
+
+.navbar .menu li {
+  list-style: none;
+  margin: 0 6px;
+}
+
+.navbar .menu a {
+  text-decoration: none;
+  color: #000;
+  font-size: 50px;
+  font-weight: 700;
+  transition: all 0.3s ease;
+}
+
+.navbar .menu a:hover {
+  color: #f2f2f2;
+}
+
+.navbar .buttons input {
+  color: #f2f2f2;
+  outline: none;
+  font-size: 35px;
+  font-weight: 500;
+  padding: 6px 12px;
+  margin: 0 8px;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background: linear-gradient(135deg, #f6416c 10%, #ff9a92 100%);
+}
+
+.navbar .buttons input:hover {
+  transform: scale(0.97);
+}
+
+.text-content {
+  width: 40%;
+  margin: 100px 0 0 50px;
+}
+
+.text-content h2{
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.text-content p {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+@media (max-width:1260px) {
+  header .navbar {
+    flex-direction: column;
+    align-items: center;
+  }
+  .navbar .menu {
+    margin: 30px 0 20px 0;
+  }
+  .text-content {
+    width: 70%;
+    margin: 30px 0 0 20px;
+  }
 }
