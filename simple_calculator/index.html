@@ -14,45 +14,48 @@
   <button type="button" class="btn btn-primary col-2 offset-5 mt-5" data-toggle="modal" data-target="#staticBackdrop">
     電卓
   </button>
-  <!-- <div class="modal fade" id="staticBackdrop" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel"
+
+  <div class="modal fade" id="staticBackdrop" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel"
     aria-hidden="true">
-    <div class="modal-dialog">
-      <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable"> -->
-  <div id="calculator">
-    <div id="result">
-      <div id="history">
-        <p id="history-value">10*10</p>
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+
+        <div id="calculator">
+          <div id="result">
+            <div id="history">
+              <p id="history-value"></p>
+            </div>
+            <div id="output">
+              <p id="output-value"></p>
+            </div>
+          </div>
+          <div id="keyboard">
+            <button type="button" class="operator" id="clear">C</button>
+            <button class="operator" id="backspace">CE</button>
+            <button class="operator" id="%">%</button>
+            <button class="operator" id="/">÷</button>
+            <button class="number" id="7">7</button>
+            <button class="number" id="8">8</button>
+            <button class="number" id="9">9</button>
+            <button class="operator" id="*">x</button>
+            <button class="number" id="4">4</button>
+            <button class="number" id="5">5</button>
+            <button class="number" id="6">6</button>
+            <button class="operator" id="-">-</button>
+            <button class="number" id="1">1</button>
+            <button class="number" id="2">2</button>
+            <button class="number" id="3">3</button>
+            <button class="operator" id="+">+</button>
+            <button class="empty" id="empty"></button>
+            <button class="number" id="0">0</button>
+            <button class="empty" id="empty"></button>
+            <button class="operator" id="=">=</button>
+          </div>
+        </div>
+
       </div>
-      <div id="output">
-        <p id="output-value"></p>
-      </div>
-    </div>
-    <div id="keyboard">
-      <button type="button" class="operator" id="clear">C</button>
-      <button class="operator" id="backspace">CE</button>
-      <button class="operator" id="%">%</button>
-      <button class="operator" id="/">÷</button>
-      <button class="number" id="7">7</button>
-      <button class="number" id="8">8</button>
-      <button class="number" id="9">9</button>
-      <button class="operator" id="*">x</button>
-      <button class="number" id="4">4</button>
-      <button class="number" id="5">5</button>
-      <button class="number" id="6">6</button>
-      <button class="operator" id="-">-</button>
-      <button class="number" id="1">1</button>
-      <button class="number" id="2">2</button>
-      <button class="number" id="3">3</button>
-      <button class="operator" id="+">+</button>
-      <button class="empty" id="empty"></button>
-      <button class="number" id="0">0</button>
-      <button class="empty" id="empty"></button>
-      <button class="operator" id="=">=</button>
     </div>
   </div>
-  <!-- </div>
-    </div>
-  </div> -->
   <script src="script.js"></script>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
     integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
