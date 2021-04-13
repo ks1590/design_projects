@@ -22,7 +22,7 @@ class Calculator {
 
   chooseOperation(operation) {
     if (this.currentOperand === '') return
-    if (this.previousOperand != '') {
+    if (this.previousOperand !== '') {
       this.compute()
     }
     this.operation = operation
@@ -47,7 +47,7 @@ class Calculator {
         break
       case '÷':
         computation = prev / current
-        break;
+        break
       default:
         return
     }
@@ -56,7 +56,7 @@ class Calculator {
     this.previousOperand = ''
   }
 
-  getdisplayNumber(number) {
+  getDisplayNumber(number) {
     const stringNumber = number.toString()
     const integerDigits = parseFloat(stringNumber.split('.')[0])
     const decimalDigits = stringNumber.split('.')[1]
@@ -74,16 +74,17 @@ class Calculator {
   }
 
   updateDisplay() {
-    this.currentOperandTextElement.innerTxet =
-      this.getdisplayNumber(this.currentOperand)
+    this.currentOperandTextElement.innerText =
+      this.getDisplayNumber(this.currentOperand)
     if (this.operation != null) {
-      this.previousOperandTextElement.innerTxet =
-        `${this.getdisplayNumber(this.previousOperandTextElement)} ${this.operation}`
+      this.previousOperandTextElement.innerText =
+        `${this.getDisplayNumber(this.previousOperand)} ${this.operation}`
     } else {
-      this.previousOperandTextElement.innerTxet = ''
+      this.previousOperandTextElement.innerText = ''
     }
   }
 }
+
 
 const numberButtons = document.querySelectorAll('[data-number]')
 const operationButtons = document.querySelectorAll('[data-operation]')
@@ -97,7 +98,7 @@ const calculator = new Calculator(previousOperandTextElement, currentOperandText
 
 numberButtons.forEach(button => {
   button.addEventListener('click', () => {
-    calculator.appendNumber(button.innerTxet)
+    calculator.appendNumber(button.innerText)
     calculator.updateDisplay()
   })
 })
