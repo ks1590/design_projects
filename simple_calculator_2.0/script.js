@@ -124,3 +124,16 @@ deleteButton.addEventListener('click', button => {
   calculator.delete()
   calculator.updateDisplay()
 })
+
+const jsFrame = new JSFrame();
+const frame = jsFrame.create({
+  title: '電卓',
+  left: 20, top: 20, width: 320, height: 550,
+  movable: true,//マウスで移動可能
+  resizable: true,//マウスでリサイズ可能
+  // html: '<div id="my_element" style="padding:10px;font-size:12px;color:darkgray;">Contents of window</div>'
+  url: "calculator.html",
+  urlLoaded: (_frame) => { }
+});
+//ウィンドウを表示する
+frame.show();
