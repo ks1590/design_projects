@@ -49,7 +49,7 @@ function update() {
   }
 }
 
-var animateButton = function (e) {
+let animateButton = function (e) {
   e.preventDefault;
   //reset animation
   e.target.classList.remove('animate');
@@ -59,7 +59,7 @@ var animateButton = function (e) {
   }, 700);
 };
 
-var bubblyButtons = document.getElementsByClassName("bubbly-button");
-for (var i = 0; i < bubblyButtons.length; i++) {
+let bubblyButtons = document.getElementsByClassName("bubbly-button");
+for (let i = 0; i < bubblyButtons.length; i++) {
   bubblyButtons[i].addEventListener('click', animateButton, false);
 }
