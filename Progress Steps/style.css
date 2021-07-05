@@ -71,7 +71,7 @@ body {
   border-color: var(--line-border-fill);  
 }
 
-.btn {
+/* .btn {
   background-color: var(--line-border-fill);
   color: #fff;
   border: 0;
@@ -94,4 +94,4 @@ body {
 .btn:disabled {
   background: var(--line-border-empty);
   cursor: not-allowed;
-}
+} */
