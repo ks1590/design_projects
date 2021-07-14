@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Change Font Size</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="buttons">
+      <span class="btn active" onclick="document.getElementById('text').style.fontSize = '1em'">A</span>
+      <span class="btn" onclick="document.getElementById('text').style.fontSize = '1.25em'">A</span>
+      <span class="btn" onclick="document.getElementById('text').style.fontSize = '1.75em'">A</span>
+    </div>
+
+    <div class="content" id="text">
+      <h2>JavaScript</h2>
+      <p>
+        JavaScriptはネットスケープコミュニケーションズのブレンダン・アイクによって開発され、Netscape Navigator
+        2.0で実装された。開発当初はLiveScriptと呼ばれていたが、1995年にサン・マイクロシステムズ（現・オラクル）が開発したプログラミング言語Javaが当時大きな注目を浴びており、ネットスケープとサン・マイクロシステムズが業務提携していた事もあったため、JavaScriptという名前に変更された[3][4]。最初のJavaScriptエンジンはブレンダン・アイクによりNetscape
+        Navigatorのために作成されたものであった。このエンジンはSpiderMonkeyと呼ばれており、C言語で実装されていた。また、全てJavaで記述されたJavaScriptエンジンであるRhinoも同じくNetscapeのNorris
+        Boyd（後にGoogleに移籍）らにより作成された。
+
+        1996年にマイクロソフトのInternet Explorer
+        3.0に搭載されるようになると、その手軽さからJavaScriptは急速に普及していく。1997年、通信に関する標準を策定する国際団体EcmaインターナショナルによってJavaScriptの中核的な仕様がECMAScriptとして標準化され[5]、多くのウェブブラウザで利用できるようになった。
+
+        ネットスケープは、ウェブアプリケーション開発言語として自社のサーバ製品に実装したLiveWire JavaScriptも発表したが[4]、こちらはあまり普及しなかった。
+
+        JavaScriptの登場初期は、ブラウザベンダー間で言語仕様の独自拡張が行われていたため、ブラウザ間の互換性が極めて低かった。ECMAScriptの策定以降は実装間の互換性は向上し、DOMなど関連仕様の実装に関する互換性も高くなっていった。
+
+        かつてはJavaScriptという言葉が「ECMAScript標準」を指す、あるいは「独自実装を含んだ広義のJavaScript」を指し幅広い意味で使われていた。ゆえにどちらの意味でJavaScriptという言葉が使われているかは文脈で判断する必要があった[6]。たとえばかつてマイクロソフトによる実装はJScriptと呼ばれたが、JScriptをJavaScriptと呼ぶような場面があった。
+
+        ECMAScriptは仕様自体に独自の拡張を条件付きで認める記述があり[7]、ブラウザが実装しているスクリプト言語はすべてECMAScriptに準拠していることになる。広義の意味でこれをJavaScriptと呼ぶ場合、主要なブラウザが実装しているスクリプト言語はマイクロソフトやGoogle、Appleの実装も含めてJavaScriptである。
+
+        実装間での差異を吸収するためにPrototype JavaScript Frameworkなどのライブラリが用いられた。
+      </p>
+
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
