@@ -9,3 +9,7 @@ for (let i = 0; i < btn.length; i++) {
     this.className += " active";
   })
 }
+
+$(document).ready(function () {
+  $('.zoom').magnify();
+});
