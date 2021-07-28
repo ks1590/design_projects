@@ -1,0 +1,80 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background: steelblue;
+  color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.container {
+  background: rgba(0, 0, 0, 0.4);
+  padding: 20px 40px;
+  border-radius: 5px;
+}
+
+.container h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.container .btn {
+  cursor: pointer;
+  display: inline-block;
+  width: 100%;
+  background: lightblue;
+  padding: 12px;
+  font-family: inherit;
+  font-size: 18px;
+  border: 0;
+  border-radius: 5px;
+}
+
+.container .btn:active {
+  outline: 0;
+}
+
+.container .btn:active {
+  -webkit-transform: scale(0.98);
+          transform: scale(0.98);
+}
+
+.container .form-control {
+  position: relative;
+  margin: 20px 0 40px;
+  width: 300px;
+}
+
+.container .form-control input {
+  background: transparent;
+  border: 0;
+  border-bottom: 2px #fff solid;
+  width: 100%;
+  padding: 15px 0;
+  font-size: 18px;
+  color: #fff;
+}
+
+.container .form-control input:focus,
+.container .form-control input:valid {
+  outline: none;
+}
+/*# sourceMappingURL=style.css.map */
