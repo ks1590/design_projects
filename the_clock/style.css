@@ -22,4 +22,90 @@ body {
   overflow: hidden;
   margin: 0;
 }
+
+.clock-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.clock-container .clock {
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
+
+.clock-container .needle {
+  background: #000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 60px;
+  width: 3px;
+  -webkit-transform-origin: bottom center;
+          transform-origin: bottom center;
+}
+
+.clock-container .needle.hour {
+  -webkit-transform: translate(-50%, -100%) rotate(0deg);
+          transform: translate(-50%, -100%) rotate(0deg);
+}
+
+.clock-container .needle.minute {
+  -webkit-transform: translate(-50%, -100%) rotate(0deg);
+          transform: translate(-50%, -100%) rotate(0deg);
+  height: 100px;
+}
+
+.clock-container .needle.second {
+  -webkit-transform: translate(-50%, -100%) rotate(30deg);
+          transform: translate(-50%, -100%) rotate(30deg);
+  height: 100px;
+  background: #e74c3c;
+}
+
+.clock-container .center-point {
+  background: #e74c3c;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+.clock-container .center-point::after {
+  content: "";
+  background: #000;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+.clock-container .time {
+  font-size: 60px;
+}
+
+.clock-container .date {
+  color: #aaa;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+}
 /*# sourceMappingURL=style.css.map */
