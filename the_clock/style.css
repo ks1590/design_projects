@@ -43,6 +43,7 @@ body {
   position: relative;
   width: 200px;
   height: 200px;
+  margin: 20px;
 }
 
 .clock-container .needle {
@@ -54,6 +55,8 @@ body {
   width: 3px;
   -webkit-transform-origin: bottom center;
           transform-origin: bottom center;
+  -webkit-transition: all 0.5s ease-in;
+  transition: all 0.5s ease-in;
 }
 
 .clock-container .needle.hour {
@@ -100,7 +103,7 @@ body {
 }
 
 .clock-container .time {
-  font-size: 60px;
+  font-size: 40px;
 }
 
 .clock-container .date {
