@@ -19,3 +19,21 @@ function dragStart() {
 function dragEnd() {
   this.className = "fill"
 }
+
+function dragOver(e) {
+  e.preventDefault();
+}
+
+function dragEnter(e) {
+  e.preventDefault();
+  this.className += " hoverd"
+}
+
+function dragLeave() {
+  this.className = "empty"
+}
+
+function dragDrop() {
+  this.className = "empty"
+  this.append(fill)
+}

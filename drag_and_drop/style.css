@@ -3,7 +3,7 @@
 }
 
 body {
-  background: steelblue;
+  background: rgb(192, 197, 201);
   display: flex;
   align-items: center;
   justify-content: center;
