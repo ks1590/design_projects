@@ -2,11 +2,11 @@
   <form @submit="onSubmit" class="add-form">
     <div class="form-control">
       <label>タスク名</label>
-      <input type="text" v-model="text" name="text" placeholder="Add Task" />
+      <input type="text" v-model="text" name="text" />
     </div>
     <div class="form-control">
       <label>日時</label>
-      <input type="text" v-model="day" name="day" placeholder="Add Day & Time" />
+      <input type="text" v-model="day" name="day" />
     </div>
     <div class="form-control form-control-check">
       <label>リマインダー</label>
@@ -18,7 +18,36 @@
 </template>
 
 <script>
-export default {};
+export default {
+  name: "AddTask",
+  data() {
+    return {
+      text: "",
+      day: "",
+      reminder: false
+    };
+  },
+  methods: {
+    onSubmit(e) {
+      e.preventDefault();
+
+      if (!this.text) {
+        alert("タスクを入力してくだいさい。");
+        return;
+      }
+
+      const newTask = {
+        text: this.text,
+        day: this.day,
+        reminder: this.reminder
+      };
+
+      this.$emit("add-task", newTask);
+
+      (this.text = ""), (this.day = ""), (this.reminder = false);
+    }
+  }
+};
 </script>
 
 <style scoped>
