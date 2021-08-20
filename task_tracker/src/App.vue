@@ -1,8 +1,18 @@
 <template>
   <div class="container">
-    <Header title="Task Tracker" />
-    <AddTask @add-task="addTask" />
-    <Tasks @toggle-reminder="toggleReminder" @delete-task="deleteTask" :tasks="tasks" />
+    <Header
+      @toggle-add-task="toggleAddTask"
+      title="Task Tracker"
+      :showAddTask="showAddTask"
+    />
+    <div v-if="showAddTask">
+      <AddTask @add-task="addTask" />
+    </div>
+    <Tasks
+      @toggle-reminder="toggleReminder"
+      @delete-task="deleteTask"
+      :tasks="tasks"
+    />
   </div>
 </template>
 
@@ -16,32 +26,36 @@ export default {
   components: {
     Header,
     Tasks,
-    AddTask
+    AddTask,
   },
   data() {
     return {
-      tasks: []
+      tasks: [],
+      showAddTask: false,
     };
   },
   methods: {
+    toggleAddTask() {
+      this.showAddTask = !this.showAddTask;
+    },
     addTask(task) {
       this.tasks = [...this.tasks, task];
     },
     deleteTask(id) {
       if (confirm("削除してよろしいですか？")) {
-        this.tasks = this.tasks.filter(task => task.id !== id);
+        this.tasks = this.tasks.filter((task) => task.id !== id);
       }
     },
     toggleReminder(id) {
-      this.tasks = this.tasks.map(task =>
+      this.tasks = this.tasks.map((task) =>
         task.id === id
           ? {
               ...task,
-              reminder: !task.reminder
+              reminder: !task.reminder,
             }
           : task
       );
-    }
+    },
   },
   created() {
     this.tasks = [
@@ -49,16 +63,16 @@ export default {
         id: 1,
         text: "hoge1",
         day: "2021/2/1",
-        reminder: true
+        reminder: true,
       },
       {
         id: 2,
         text: "hoge2",
         day: "2021/3/1",
-        reminder: true
-      }
+        reminder: true,
+      },
     ];
-  }
+  },
 };
 </script>
 
