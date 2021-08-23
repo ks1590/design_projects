@@ -17,12 +17,6 @@
       "text": "hoge3",
       "day": "2021/3/1",
       "reminder": true
-    },
-    {
-      "text": "Cash",
-      "day": "2021/4/5",
-      "reminder": true,
-      "id": 4
     }
   ]
 }
