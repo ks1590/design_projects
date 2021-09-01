@@ -28,7 +28,7 @@ const app = Vue.createApp({
   methods: {
     async getPokemon() {
       const min = 1
-      const max = 300
+      const max = 150
       const pokemon_id = Math.floor(Math.random()*(max + 1 - min )) + min
       
 
@@ -38,16 +38,16 @@ const app = Vue.createApp({
       
       const poke_types = pokemon.types.map(type => type.type.name)
       const type = main_types.find(type => poke_types.indexOf(type) > -1)
-      const color = colors[type]
       
       this.pokemonName = pokemon.name
       this.type = type
-      const pokemonEL = document.getElementById('img-container')      
-      pokemonEL.style.background = color
-
+      
       const pokemon_picture = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/${pokemon.id}.svg`
       this.picture = pokemon_picture
-
+      
+      // const color = colors[type]
+      // const pokemonEL = document.getElementById('img-container')      
+      // pokemonEL.style.background = color
     }
   }
 })
