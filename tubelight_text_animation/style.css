@@ -38,7 +38,10 @@ h2 {
 
 @-webkit-keyframes animate {
   0% {
-    color: #0e3742;
+    color: #FF8C00;
+    background: -webkit-linear-gradient(0deg, #40E0D0, #FF8C00, #FF0080);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     text-shadow: none;
   }
   100% {
@@ -49,7 +52,10 @@ h2 {
 
 @keyframes animate {
   0% {
-    color: #0e3742;
+    color: #FF8C00;
+    background: -webkit-linear-gradient(0deg, #40E0D0, #FF8C00, #FF0080);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     text-shadow: none;
   }
   100% {
