@@ -1,0 +1,2872 @@
+[
+    {
+        "recordType": "inventoryitem",
+        "id": "413451",
+        "values": {
+            "itemid": "3300000000893",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "404512",
+        "values": {
+            "itemid": "4063528004383",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "404513",
+        "values": {
+            "itemid": "4063528004390",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "404514",
+        "values": {
+            "itemid": "4063528004406",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "404515",
+        "values": {
+            "itemid": "4063528004413",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "404712",
+        "values": {
+            "itemid": "4063528004420",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "404717",
+        "values": {
+            "itemid": "4063528004437",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "404715",
+        "values": {
+            "itemid": "4063528004444",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "404716",
+        "values": {
+            "itemid": "4063528004451",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "404714",
+        "values": {
+            "itemid": "4063528004468",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "404713",
+        "values": {
+            "itemid": "4063528004475",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "404718",
+        "values": {
+            "itemid": "4063528004482",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "404719",
+        "values": {
+            "itemid": "4063528004499",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "404413",
+        "values": {
+            "itemid": "4063528004543",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "404412",
+        "values": {
+            "itemid": "4063528004550",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "404414",
+        "values": {
+            "itemid": "4063528004567",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374098",
+        "values": {
+            "itemid": "4260285375620",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374099",
+        "values": {
+            "itemid": "4260285375637",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374100",
+        "values": {
+            "itemid": "4260285375644",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374118",
+        "values": {
+            "itemid": "4260285375705",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374101",
+        "values": {
+            "itemid": "4260285375996",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374102",
+        "values": {
+            "itemid": "4260285376009",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374108",
+        "values": {
+            "itemid": "4260285377747",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374109",
+        "values": {
+            "itemid": "4260285378621",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374103",
+        "values": {
+            "itemid": "4260285379024",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374104",
+        "values": {
+            "itemid": "4260285379031",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374105",
+        "values": {
+            "itemid": "4260285379048",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374110",
+        "values": {
+            "itemid": "4260285379109",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374111",
+        "values": {
+            "itemid": "4260285379116",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374116",
+        "values": {
+            "itemid": "4260285385315",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374115",
+        "values": {
+            "itemid": "4260285385339",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374107",
+        "values": {
+            "itemid": "4260285385735",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374106",
+        "values": {
+            "itemid": "4260285385742",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374112",
+        "values": {
+            "itemid": "4260285389719",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374113",
+        "values": {
+            "itemid": "4260285389726",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374117",
+        "values": {
+            "itemid": "4260285391293",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63446",
+        "values": {
+            "itemid": "4582401915771",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63443",
+        "values": {
+            "itemid": "4582401915788",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63444",
+        "values": {
+            "itemid": "4582401915795",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63445",
+        "values": {
+            "itemid": "4582401915801",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63454",
+        "values": {
+            "itemid": "4582401915818",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63456",
+        "values": {
+            "itemid": "4582401915832",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63457",
+        "values": {
+            "itemid": "4582401915849",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63458",
+        "values": {
+            "itemid": "4582401915856",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63447",
+        "values": {
+            "itemid": "4582401915863",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63450",
+        "values": {
+            "itemid": "4582401915870",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63448",
+        "values": {
+            "itemid": "4582401915887",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63449",
+        "values": {
+            "itemid": "4582401915894",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "77253",
+        "values": {
+            "itemid": "4582401915917",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63451",
+        "values": {
+            "itemid": "4582401915931",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63453",
+        "values": {
+            "itemid": "4582401915955",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63459",
+        "values": {
+            "itemid": "4582401915986",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63461",
+        "values": {
+            "itemid": "4582401916006",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63462",
+        "values": {
+            "itemid": "4582401916013",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "63463",
+        "values": {
+            "itemid": "4582401916020",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "104974",
+        "values": {
+            "itemid": "4582401936417",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "102472",
+        "values": {
+            "itemid": "4582401936448",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "102471",
+        "values": {
+            "itemid": "4582401936479",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "108581",
+        "values": {
+            "itemid": "4582401936646",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "108576",
+        "values": {
+            "itemid": "4582401936677",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "108577",
+        "values": {
+            "itemid": "4582401936707",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "108582",
+        "values": {
+            "itemid": "4582401936738",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "108583",
+        "values": {
+            "itemid": "4582401936769",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "113787",
+        "values": {
+            "itemid": "4582401937056",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "120790",
+        "values": {
+            "itemid": "4582401937117",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "126695",
+        "values": {
+            "itemid": "4582401937155",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "126693",
+        "values": {
+            "itemid": "4582401937216",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "126694",
+        "values": {
+            "itemid": "4582401937247",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "144304",
+        "values": {
+            "itemid": "4582401938145",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "185237",
+        "values": {
+            "itemid": "4582401938176",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "185238",
+        "values": {
+            "itemid": "4582401938206",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "185239",
+        "values": {
+            "itemid": "4582401938237",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "155407",
+        "values": {
+            "itemid": "4589485730238",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "163011",
+        "values": {
+            "itemid": "4589485730269",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "163113",
+        "values": {
+            "itemid": "4589485730849",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "163010",
+        "values": {
+            "itemid": "4589485732782",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "163114",
+        "values": {
+            "itemid": "4589485732812",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "163115",
+        "values": {
+            "itemid": "4589485732843",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "172924",
+        "values": {
+            "itemid": "4589485732874",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "172923",
+        "values": {
+            "itemid": "4589485732904",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "185235",
+        "values": {
+            "itemid": "4589485732935",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "163012",
+        "values": {
+            "itemid": "4589485732966",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "164517",
+        "values": {
+            "itemid": "4589485732997",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "164516",
+        "values": {
+            "itemid": "4589485733024",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "170519",
+        "values": {
+            "itemid": "4589485734571",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "170520",
+        "values": {
+            "itemid": "4589485734601",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "181129",
+        "values": {
+            "itemid": "4589485734779",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "181130",
+        "values": {
+            "itemid": "4589485734809",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "184132",
+        "values": {
+            "itemid": "4589485734830",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "184133",
+        "values": {
+            "itemid": "4589485734861",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "185236",
+        "values": {
+            "itemid": "4589485735028",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "185940",
+        "values": {
+            "itemid": "4589485735042",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "185941",
+        "values": {
+            "itemid": "4589485735073",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "191846",
+        "values": {
+            "itemid": "4589485735509",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "191845",
+        "values": {
+            "itemid": "4589485735530",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "191847",
+        "values": {
+            "itemid": "4589485735561",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "196157",
+        "values": {
+            "itemid": "4589485735578",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "196158",
+        "values": {
+            "itemid": "4589485735585",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "191850",
+        "values": {
+            "itemid": "4589485735592",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "196159",
+        "values": {
+            "itemid": "4589485737558",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "202065",
+        "values": {
+            "itemid": "4589485738951",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "204767",
+        "values": {
+            "itemid": "4589485739460",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "209069",
+        "values": {
+            "itemid": "4589485740770",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "210570",
+        "values": {
+            "itemid": "4589485740855",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "213771",
+        "values": {
+            "itemid": "4589485741999",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "214774",
+        "values": {
+            "itemid": "4589485745430",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "220180",
+        "values": {
+            "itemid": "4589485747588",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "220181",
+        "values": {
+            "itemid": "4589485747618",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "220179",
+        "values": {
+            "itemid": "4589485747625",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "220182",
+        "values": {
+            "itemid": "4589485747656",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "234684",
+        "values": {
+            "itemid": "4589485752582",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "234685",
+        "values": {
+            "itemid": "4589485752599",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "234686",
+        "values": {
+            "itemid": "4589485752629",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "234687",
+        "values": {
+            "itemid": "4589485752650",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "234688",
+        "values": {
+            "itemid": "4589485752681",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "234689",
+        "values": {
+            "itemid": "4589485752711",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "238595",
+        "values": {
+            "itemid": "4589485752742",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "238596",
+        "values": {
+            "itemid": "4589485752773",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "238597",
+        "values": {
+            "itemid": "4589485752803",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "238598",
+        "values": {
+            "itemid": "4589485752834",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "250820",
+        "values": {
+            "itemid": "4589485754555",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "250821",
+        "values": {
+            "itemid": "4589485754586",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "250822",
+        "values": {
+            "itemid": "4589485754616",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "250819",
+        "values": {
+            "itemid": "4589485754647",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "250823",
+        "values": {
+            "itemid": "4589485754678",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "261527",
+        "values": {
+            "itemid": "4589485755071",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "266437",
+        "values": {
+            "itemid": "4589485755088",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "266438",
+        "values": {
+            "itemid": "4589485755118",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "266439",
+        "values": {
+            "itemid": "4589485755149",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "266440",
+        "values": {
+            "itemid": "4589485755170",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "266435",
+        "values": {
+            "itemid": "4589485756801",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "266436",
+        "values": {
+            "itemid": "4589485756832",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "271848",
+        "values": {
+            "itemid": "4589485757471",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "271849",
+        "values": {
+            "itemid": "4589485757518",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "271850",
+        "values": {
+            "itemid": "4589485757556",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "269045",
+        "values": {
+            "itemid": "4589485757617",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "269046",
+        "values": {
+            "itemid": "4589485757648",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "270047",
+        "values": {
+            "itemid": "4589485757679",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "282966",
+        "values": {
+            "itemid": "4589485757709",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "282967",
+        "values": {
+            "itemid": "4589485757730",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "282460",
+        "values": {
+            "itemid": "4589485757761",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "282463",
+        "values": {
+            "itemid": "4589485757792",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "283778",
+        "values": {
+            "itemid": "4589485757921",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "283779",
+        "values": {
+            "itemid": "4589485757952",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "283777",
+        "values": {
+            "itemid": "4589485757983",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "283780",
+        "values": {
+            "itemid": "4589485757990",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "283781",
+        "values": {
+            "itemid": "4589485758027",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "283782",
+        "values": {
+            "itemid": "4589485758058",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "283783",
+        "values": {
+            "itemid": "4589485758089",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "296940",
+        "values": {
+            "itemid": "4589485758966",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "296941",
+        "values": {
+            "itemid": "4589485758973",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "296942",
+        "values": {
+            "itemid": "4589485758980",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "296943",
+        "values": {
+            "itemid": "4589485758997",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "302065",
+        "values": {
+            "itemid": "4589485759000",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "302979",
+        "values": {
+            "itemid": "4589485759031",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "302980",
+        "values": {
+            "itemid": "4589485759062",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "302981",
+        "values": {
+            "itemid": "4589485759079",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "302982",
+        "values": {
+            "itemid": "4589485759109",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "302983",
+        "values": {
+            "itemid": "4589485759130",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "302984",
+        "values": {
+            "itemid": "4589485759147",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "302985",
+        "values": {
+            "itemid": "4589485759406",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "302986",
+        "values": {
+            "itemid": "4589485759437",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "302987",
+        "values": {
+            "itemid": "4589485759468",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "309525",
+        "values": {
+            "itemid": "4589485759796",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "309526",
+        "values": {
+            "itemid": "4589485759826",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "315231",
+        "values": {
+            "itemid": "4589485759932",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "315230",
+        "values": {
+            "itemid": "4589485759963",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "320652",
+        "values": {
+            "itemid": "4589485759994",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "320651",
+        "values": {
+            "itemid": "4589485760020",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "320650",
+        "values": {
+            "itemid": "4589485760051",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "320653",
+        "values": {
+            "itemid": "4589485760082",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "320654",
+        "values": {
+            "itemid": "4589485760112",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "320655",
+        "values": {
+            "itemid": "4589485760785",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "320656",
+        "values": {
+            "itemid": "4589485760815",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "320657",
+        "values": {
+            "itemid": "4589485760846",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "320658",
+        "values": {
+            "itemid": "4589485760877",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "320659",
+        "values": {
+            "itemid": "4589485760907",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "320660",
+        "values": {
+            "itemid": "4589485760938",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "320661",
+        "values": {
+            "itemid": "4589485760976",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "320662",
+        "values": {
+            "itemid": "4589485760983",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "320663",
+        "values": {
+            "itemid": "4589485761034",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "332684",
+        "values": {
+            "itemid": "4589485761119",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "332678",
+        "values": {
+            "itemid": "4589485761263",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "332679",
+        "values": {
+            "itemid": "4589485761270",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "332680",
+        "values": {
+            "itemid": "4589485761287",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "332681",
+        "values": {
+            "itemid": "4589485761294",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "332682",
+        "values": {
+            "itemid": "4589485761300",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "332683",
+        "values": {
+            "itemid": "4589485761317",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "342798",
+        "values": {
+            "itemid": "4589485761430",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "342797",
+        "values": {
+            "itemid": "4589485761447",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "342796",
+        "values": {
+            "itemid": "4589485761454",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "353517",
+        "values": {
+            "itemid": "4589485761614",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "353518",
+        "values": {
+            "itemid": "4589485761621",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "351113",
+        "values": {
+            "itemid": "4589485763458",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "351114",
+        "values": {
+            "itemid": "4589485763465",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "353214",
+        "values": {
+            "itemid": "4589485763472",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "353215",
+        "values": {
+            "itemid": "4589485763489",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "353216",
+        "values": {
+            "itemid": "4589485763496",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "353218",
+        "values": {
+            "itemid": "4589485763519",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "355354",
+        "values": {
+            "itemid": "4589485763526",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "369593",
+        "values": {
+            "itemid": "4589485763533",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "365670",
+        "values": {
+            "itemid": "4589485763540",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "365671",
+        "values": {
+            "itemid": "4589485763557",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "365672",
+        "values": {
+            "itemid": "4589485763564",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "368687",
+        "values": {
+            "itemid": "4589485763571",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "368688",
+        "values": {
+            "itemid": "4589485763588",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "368689",
+        "values": {
+            "itemid": "4589485763595",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "368690",
+        "values": {
+            "itemid": "4589485763601",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "368691",
+        "values": {
+            "itemid": "4589485763618",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "368695",
+        "values": {
+            "itemid": "4589485763625",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "368692",
+        "values": {
+            "itemid": "4589485763632",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "368693",
+        "values": {
+            "itemid": "4589485763649",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "368694",
+        "values": {
+            "itemid": "4589485763656",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "368696",
+        "values": {
+            "itemid": "4589485763663",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "369994",
+        "values": {
+            "itemid": "4589485763694",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "369995",
+        "values": {
+            "itemid": "4589485763700",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "369996",
+        "values": {
+            "itemid": "4589485763717",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "371196",
+        "values": {
+            "itemid": "4589485763724",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "378908",
+        "values": {
+            "itemid": "4589485763731",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "379107",
+        "values": {
+            "itemid": "4589485763748",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "378909",
+        "values": {
+            "itemid": "4589485764929",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "383832",
+        "values": {
+            "itemid": "4589485764936",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "383833",
+        "values": {
+            "itemid": "4589485764943",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "383834",
+        "values": {
+            "itemid": "4589485764950",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "383836",
+        "values": {
+            "itemid": "4589485764967",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "383837",
+        "values": {
+            "itemid": "4589485764974",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "383838",
+        "values": {
+            "itemid": "4589485764981",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "383839",
+        "values": {
+            "itemid": "4589485764998",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "387643",
+        "values": {
+            "itemid": "4589485765018",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "387639",
+        "values": {
+            "itemid": "4589485765032",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "387640",
+        "values": {
+            "itemid": "4589485765049",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "387641",
+        "values": {
+            "itemid": "4589485765056",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "387642",
+        "values": {
+            "itemid": "4589485765063",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "387644",
+        "values": {
+            "itemid": "4589485765070",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "387645",
+        "values": {
+            "itemid": "4589485765087",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "387646",
+        "values": {
+            "itemid": "4589485765094",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "391341",
+        "values": {
+            "itemid": "4589485765124",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "397655",
+        "values": {
+            "itemid": "4589485765131",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "397656",
+        "values": {
+            "itemid": "4589485765148",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "397657",
+        "values": {
+            "itemid": "4589485765155",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "397658",
+        "values": {
+            "itemid": "4589485765162",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "397659",
+        "values": {
+            "itemid": "4589485765179",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "397660",
+        "values": {
+            "itemid": "4589485765186",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "399660",
+        "values": {
+            "itemid": "4589485765292",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "399661",
+        "values": {
+            "itemid": "4589485765308",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "399662",
+        "values": {
+            "itemid": "4589485765315",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "399663",
+        "values": {
+            "itemid": "4589485765322",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "399664",
+        "values": {
+            "itemid": "4589485765339",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "401369",
+        "values": {
+            "itemid": "4589485765346",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "401370",
+        "values": {
+            "itemid": "4589485765353",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "401371",
+        "values": {
+            "itemid": "4589485765360",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "401372",
+        "values": {
+            "itemid": "4589485765377",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "403380",
+        "values": {
+            "itemid": "4589485765384",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "422762",
+        "values": {
+            "itemid": "4589485765407",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "422763",
+        "values": {
+            "itemid": "4589485765414",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "410439",
+        "values": {
+            "itemid": "4589485765421",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "410440",
+        "values": {
+            "itemid": "4589485765438",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "413854",
+        "values": {
+            "itemid": "4589485765445",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "413855",
+        "values": {
+            "itemid": "4589485765452",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "414156",
+        "values": {
+            "itemid": "4589485765469",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "413856",
+        "values": {
+            "itemid": "4589485765476",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "413857",
+        "values": {
+            "itemid": "4589485765483",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "413858",
+        "values": {
+            "itemid": "4589485765490",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "413859",
+        "values": {
+            "itemid": "4589485765506",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "413860",
+        "values": {
+            "itemid": "4589485765513",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "417757",
+        "values": {
+            "itemid": "4589485765537",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "421460",
+        "values": {
+            "itemid": "4589485765544",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "417758",
+        "values": {
+            "itemid": "4589485765568",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "418457",
+        "values": {
+            "itemid": "4589485765582",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "216075",
+        "values": {
+            "itemid": "5060288330492",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "216077",
+        "values": {
+            "itemid": "5060288330607",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "216076",
+        "values": {
+            "itemid": "5060288330645",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": false,
+            "custitem_direct_sales_stop": false
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "408636",
+        "values": {
+            "itemid": "5060579750008",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374602",
+        "values": {
+            "itemid": "5060579750015",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374598",
+        "values": {
+            "itemid": "5060579750022",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374601",
+        "values": {
+            "itemid": "5060579750039",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374605",
+        "values": {
+            "itemid": "5060579750046",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374604",
+        "values": {
+            "itemid": "5060579750053",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "408537",
+        "values": {
+            "itemid": "5060579750077",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374600",
+        "values": {
+            "itemid": "5060579750114",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374599",
+        "values": {
+            "itemid": "5060579750152",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "374603",
+        "values": {
+            "itemid": "5060579750176",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "408538",
+        "values": {
+            "itemid": "5060579750268",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "408539",
+        "values": {
+            "itemid": "5060579750282",
+            "custitem_daiwa_stop": false,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "422761",
+        "values": {
+            "itemid": "5060579750473",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "422561",
+        "values": {
+            "itemid": "5060579750527",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    },
+    {
+        "recordType": "inventoryitem",
+        "id": "422661",
+        "values": {
+            "itemid": "5060579750534",
+            "custitem_daiwa_stop": true,
+            "custitem_mandd_stop": true,
+            "custitem_direct_sales_stop": true
+        }
+    }
+]
