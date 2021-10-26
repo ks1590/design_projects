@@ -7,7 +7,7 @@
   }
 
   $number = -12348567.099;
-  $result = reverseNumber($number);
+  $output = reverseNumber($number);
 
-  echo $result;
+  echo $output;
 ?>
