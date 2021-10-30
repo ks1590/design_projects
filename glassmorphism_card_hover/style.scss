@@ -4,8 +4,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Oswald', sans-serif;
-  // font-family: 'Irish Grover', cursive;
+  // font-family: 'Oswald', sans-serif;
+  font-family: 'Irish Grover', cursive;
 }
 
 body {
@@ -13,7 +13,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: linear-gradient(0deg,#c4c5c2,#0b78c5);
+  background: linear-gradient(0deg,#5a4502,#d67c06);
   background-attachment: fixed;
 
   .container{
@@ -31,10 +31,10 @@ body {
     .card {
       position: relative;
       height: 250px;
-      background: #fff;
+      background: rgb(240, 238, 238);
       display: flex;
       width: 45%;
-      margin: 10px 0;
+      margin: 20px 0;
       border-radius: 20px;
       box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 
@@ -83,9 +83,8 @@ body {
         justify-content: center;
         align-items: center;
 
-      h2 {
-        font-size: 18px;
-        
+      h1 {
+        font-size: 16px;        
       }
     }
   }
