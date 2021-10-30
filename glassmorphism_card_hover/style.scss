@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&family=Oswald:wght@300;400;500;600&family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Oswald', sans-serif;
+  // font-family: 'Irish Grover', cursive;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(0deg,#c4c5c2,#0b78c5);
+  background-attachment: fixed;
+
+  .container{
+    position: relative;
+    width: 1000px;
+    display: flex;
+    // justify-content: space-between;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 20px 0;
+
+    .card {
+      position: relative;
+      height: 250px;
+      background: #fff;
+      display: flex;
+      width: 45%;
+      margin: 10px 0;
+      border-radius: 20px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+
+      .imgBx{
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        background: rgba(255,255,255,0.1);
+        backdrop-filter: blur(20px);
+        height: calc(100% - 20px);
+        width: calc(100% - 20px);
+        z-index: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+        border-radius: 20px;
+        box-shadow: 5px 5px 30px rgba(0,0,0,0.1);
+        transition: 0.5s ease-in-out;
+      }
+
+      .content{
+        position: absolute;
+        right: 0;
+        width: calc(100% - 55px);        
+        height: 100%;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        h3 {
+          color: #ff0057;
+          margin-bottom: 5px;
+          font-size: 24px;
+        }
+      }
+    }
+
+    .card:hover .imgBx{
+      height: 170px;
+      width: 170px;
+      left: -110px;
+      top: calc(50% - 95px);
+              display: flex;
+        justify-content: center;
+        align-items: center;
+
+      h2 {
+        font-size: 18px;
+        
+      }
+    }
+  }
+}
+
