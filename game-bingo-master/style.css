@@ -23,6 +23,7 @@ body {
 }
 
 .result {
+  position: relative;
   align-items: center;
   border: solid 2px #000;
   display: flex;
@@ -59,12 +60,33 @@ body {
   height: 80px;
   margin: 8px;
   width: 80px;
+}
 
+.result img{
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+  height: 100%;
 }
 
 .number li.hit {
-  background: #000;
+  /* background: #000; */
+  background: rgba(0, 0, 0, 0.5);
   color: #fff;
+}
+
+.bg-image {
+  position: relative;
+}
+
+.bg-img::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
 .wrapper-button {
