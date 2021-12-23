@@ -16,7 +16,7 @@ particlesJS('snow-fall',
   {
     "particles": {
       "number": {
-        "value": 80,
+        "value": 1050,
         "density": {
           "enable": true,
           "value_area": 800
@@ -41,7 +41,7 @@ particlesJS('snow-fall',
         }
       },
       "opacity": {
-        "value": 0.5,
+        "value": 0.8,
         "random": false,
         "anim": {
           "enable": false,
@@ -61,7 +61,7 @@ particlesJS('snow-fall',
         }
       },
       "line_linked": {
-        "enable": true,
+        "enable": false,
         "distance": 150,
         "color": "#ffffff",
         "opacity": 0.4,
@@ -69,8 +69,8 @@ particlesJS('snow-fall',
       },
       "move": {
         "enable": true,
-        "speed": 6,
-        "direction": "none",
+        "speed": 2,
+        "direction": "bottom",
         "random": false,
         "straight": false,
         "out_mode": "out",
