@@ -23,3 +23,9 @@ function drawText(text) {
     context.textBaseline = "middle"
     context.fillText(text, 550, 250, 900);
 }
+
+$('#test_font_0').on('click', function () {
+    const current_label = this.closest("label")
+    $(current_label).addClass("selected")
+    console.log(current_label)
+});
