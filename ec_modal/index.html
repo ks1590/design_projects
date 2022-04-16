@@ -5,6 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="style.css">
     <title>EC Modal Form</title>
 </head>
@@ -15,9 +16,80 @@
     <div class="modal-body">
         <div class="modal-close">×</div>
         <div class="modal-content">
-            <p>開きました。</p>
+            <div class="image-container">
+                <img src="img/test_582401915863.jpg" alt="">
+            </div>
+            <div class="print-text-section">
+                <p class="text-jp-normal">フォントを選択してください</p>
+                <div class="font-type-container">
+                    <div id="font_type">
+                        <div class="radio">
+                            <label for="font_type_0" class="CUSTOM_LABEL_CLASS">
+                                <img src="img/ゴシック.jpg" alt="">
+                                <input type="radio" id="font_type_0" name="font_type" value="ゴシック" />
+                                ゴシック
+                            </label>
+                        </div>
+                        <div class="radio">
+                            <label for="font_type_1" class="CUSTOM_LABEL_CLASS">
+                                <img src="img/シンプル.jpg" alt="">
+                                <input type="radio" id="font_type_1" name="font_type" value="シンプル" />
+                                シンプル
+                            </label>
+                        </div>
+                        <div class="radio">
+                            <label for="font_type_2" class="CUSTOM_LABEL_CLASS">
+                                <img src="img/スポーティ.jpg" alt="">
+                                <input type="radio" id="font_type_2" name="font_type" value="スポーティ" />
+                                スポーティ
+                            </label>
+                        </div>
+                        <div class="radio">
+                            <label for="font_type_3" class="CUSTOM_LABEL_CLASS">
+                                <img src="img/スポーティ.jpg" alt="">
+                                <input type="radio" id="font_type_3" name="font_type" value="スポーティ" />
+                                スポーティ
+                            </label>
+                        </div>
+                        <div class="radio">
+                            <label for="font_type_4" class="CUSTOM_LABEL_CLASS">
+                                <img src="img/ゴシック.jpg" alt="">
+                                <input type="radio" id="font_type_4" name="font_type" value="ゴシック" />
+                                ゴシック
+                            </label>
+                        </div>
+                        <div class="radio">
+                            <label for="font_type_5" class="CUSTOM_LABEL_CLASS">
+                                <img src="img/シンプル.jpg" alt="">
+                                <input type="radio" id="font_type_5" name="font_type" value="シンプル" />
+                                シンプル
+                            </label>
+                        </div>
+                        <div class="radio">
+                            <label for="font_type_6" class="CUSTOM_LABEL_CLASS">
+                                <img src="img/スポーティ.jpg" alt="">
+                                <input type="radio" id="font_type_6" name="font_type" value="スポーティ" />
+                                スポーティ
+                            </label>
+                        </div>
+                        <div class="radio">
+                            <label for="font_type_7" class="CUSTOM_LABEL_CLASS">
+                                <img src="img/スポーティ.jpg" alt="">
+                                <input type="radio" id="font_type_7" name="font_type" value="スポーティ" />
+                                スポーティ
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <p class="text-jp-normal">テキストを入力してください</p>
+                <p id="count-text"></p>
+                <input type="text" id="print_text" name="print_text" maxlength="20" class="form-control" />
+                <p>※ 文字の色はお選びいただけません</p>
+            </div>
         </div>
     </div>
 </div>
+
+<script src="script.js"></script>
 </body>
 </html>
