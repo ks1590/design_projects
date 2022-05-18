@@ -1,24 +1,30 @@
-$(function(){
-    // 変数に要素を入れる
-    var open = $('.modal-open'),
-        close = $('.modal-close'),
-        container = $('.modal-container');
-
-    //開くボタンをクリックしたらモーダルを表示する
-    open.on('click',function(){
-        container.addClass('active');
-        return false;
+$(document).ready(function(){
+    $(document).on('input', '#input-text', function() {
+        console.log(checkJaText($('#input-text').val()))
     });
+})
 
-    //閉じるボタンをクリックしたらモーダルを閉じる
-    close.on('click',function(){
-        container.removeClass('active');
-    });
+function checkJaText(text) {
+    try {
+        let gmi = 'gmi';
+        let regeIncludeHiragana = '^(?=.*[\u3041-\u3096]).*$';
+        let regeIncludeKatakana = '^(?=.*[\u30A1-\u30FA]).*$';
+        let regeIncludeKanji = '^(?=.*[\u4E00-\u9FFF]).*$';
+        let regeHiragana = new RegExp(regeIncludeHiragana, gmi);
+        let regeKatakana = new RegExp(regeIncludeKatakana, gmi);
+        let regeKanji = new RegExp(regeIncludeKanji, gmi);
 
-    //モーダルの外側をクリックしたらモーダルを閉じる
-    $(document).on('click',function(e) {
-        if(!$(e.target).closest('.modal-body').length) {
-            container.removeClass('active');
-        }
-    });
-});
+        let includeJa = false;
+        if (regeHiragana.test(text))
+            includeJa = true;
+        if (regeKatakana.test(text))
+            includeJa = true;
+        if (regeKanji.test(text))
+            includeJa = true;
+
+        return includeJa;
+    } catch (error) {
+        alert(error);
+    }
+}
+

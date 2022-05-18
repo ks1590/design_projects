@@ -6,102 +6,17 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="style.css">
     <title>EC Modal Form</title>
 </head>
 <body>
-<div class="modal-open">カスタマイズする</div>
-
-<div class="modal-container">
-    <div class="modal-body">
-<!--        <div class="modal-close">×</div>-->
-        <div class="modal-content">
-            <div class="image-container">
-                <img src="img/test_582401915863.jpg" alt="">
-            </div>
-            <div class="print-text-section">
-                <p class="text-jp-normal">フォントを選択してください</p>
-                <div class="font-type-container">
-                    <div id="font_type">
-                        <div class="radio">
-                            <label for="font_type_0" class="CUSTOM_LABEL_CLASS">
-                                <img src="img/ゴシック.jpg" alt="">
-                                <input type="radio" id="font_type_0" name="font_type" value="ゴシック" />
-                                ゴシック
-                            </label>
-                        </div>
-                        <div class="radio">
-                            <label for="font_type_1" class="CUSTOM_LABEL_CLASS">
-                                <img src="img/シンプル.jpg" alt="">
-                                <input type="radio" id="font_type_1" name="font_type" value="シンプル" />
-                                シンプル
-                            </label>
-                        </div>
-                        <div class="radio">
-                            <label for="font_type_2" class="CUSTOM_LABEL_CLASS">
-                                <img src="img/スポーティ.jpg" alt="">
-                                <input type="radio" id="font_type_2" name="font_type" value="スポーティ" />
-                                スポーティ
-                            </label>
-                        </div>
-                        <div class="radio">
-                            <label for="font_type_3" class="CUSTOM_LABEL_CLASS">
-                                <img src="img/スポーティ.jpg" alt="">
-                                <input type="radio" id="font_type_3" name="font_type" value="スポーティ" />
-                                スポーティ
-                            </label>
-                        </div>
-                        <div class="radio">
-                            <label for="font_type_4" class="CUSTOM_LABEL_CLASS">
-                                <img src="img/ゴシック.jpg" alt="" class="font1">
-                                <input type="radio" id="font_type_4" name="font_type" value="ゴシック" />
-                                ゴシック
-                            </label>
-                        </div>
-                        <div class="radio">
-                            <label for="font_type_5" class="CUSTOM_LABEL_CLASS">
-                                <img src="img/シンプル.jpg" alt="">
-                                <input type="radio" id="font_type_5" name="font_type" value="シンプル" />
-                                シンプル
-                            </label>
-                        </div>
-                        <div class="radio">
-                            <label for="font_type_6" class="CUSTOM_LABEL_CLASS">
-                                <img src="img/スポーティ.jpg" alt="">
-                                <input type="radio" id="font_type_6" name="font_type" value="スポーティ" />
-                                スポーティ
-                            </label>
-                        </div>
-                        <div class="radio">
-                            <label for="font_type_7" class="CUSTOM_LABEL_CLASS">
-                                <img src="img/スポーティ.jpg" alt="">
-                                <input type="radio" id="font_type_7" name="font_type" value="スポーティ" />
-                                スポーティ
-                            </label>
-                        </div>
-                    </div>
-                </div>
-                <p class="text-jp-normal">テキストを入力してください</p>
-<!--                <p id="count-text">123</p>-->
-                <input type="text" id="print_text" name="print_text" class="form-control" />
-                <p>※ 文字の色はお選びいただけません</p>
-                <p class="text-jp-normal">テキストを入力してください</p>
-                <!--                <p id="count-text">123</p>-->
-                <input type="text" class="form-control" />
-                <p>※ 文字の色はお選びいただけません</p>
-                <p class="text-jp-normal">テキストを入力してください</p>
-                <!--                <p id="count-text">123</p>-->
-                <input type="text" class="form-control" />
-                <p>※ 文字の色はお選びいただけません</p>
-                <p class="text-jp-normal">テキストを入力してください</p>
-                <!--                <p id="count-text">123</p>-->
-                <input type="text" class="form-control" />
-                <p>※ 文字の色はお選びいただけません</p>
-            </div>
-        </div>
+    <div>
+        <form class="m-4 flex">
+            <input id="input-text" class="rounded-l-lg p-4 border-t mr-0 border-b border-l text-gray-800 border-gray-200 bg-white" placeholder="exaple@mail.com"/>
+            <button class="px-8 rounded-r-lg bg-yellow-400  text-gray-800 font-bold p-4 uppercase border-yellow-500 border-t border-b border-r">登録</button>
+        </form>
     </div>
-</div>
-
 <script src="script.js"></script>
 </body>
 </html>
