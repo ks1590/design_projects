@@ -1,15 +1,15 @@
 import './App.css';
-import  './anime.min.js';
+import Navbar from "./Navbar";
 
 function App() {
+    const title = 'NEW BLOG';
+
   return (
     <div className="App">
-      <header className="App-header">
-        <div className="container">
-          <button onClick="generate()">Genarator</button>
-        </div>
-
-      </header>
+        <Navbar />
+      <div className="content">
+          <h1>{ title }</h1>
+      </div>
     </div>
   );
 }
